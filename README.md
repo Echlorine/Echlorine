@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-AutoCAD-b42b24?style=flat-square&logo=Autodesk&logoColor=ffffff)](https://www.autodesk.com/products/autocad/)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Echlorine&layout=compact&&langs_count=10&hide=html,css,javascript)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Echlorine&layout=compact&&langs_count=10&hide=html,css)
